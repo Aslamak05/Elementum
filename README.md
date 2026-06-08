@@ -1,6 +1,10 @@
 # Elementum
 
+<<<<<<< HEAD
 Elementum is a React and Vite website built from a Figma design export and refined into a polished single-page experience. It includes the exported visual assets, responsive stage scaling, the Gerbil display font, and global styling for the final landing page.
+=======
+  # Elementum
+>>>>>>> 65e0240adfa0c3dfd9d6c7655e41b264a4c59588
 
 ## Tech Stack
 
@@ -13,6 +17,7 @@ Elementum is a React and Vite website built from a Figma design export and refin
 
 ## Getting Started
 
+<<<<<<< HEAD
 Install dependencies:
 
 ```bash
@@ -78,3 +83,7 @@ Publish the generated `dist/` directory.
 ## Repository
 
 GitHub: https://github.com/Aslamak05/Elementum
+=======
+  Run `npm run dev` to start the development server.
+  
+>>>>>>> 65e0240adfa0c3dfd9d6c7655e41b264a4c59588
