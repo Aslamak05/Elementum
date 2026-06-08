@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Gerbil';
+  src: url('../assets/fonts/Gerbil-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gerbil:Regular';
+  src: url('../assets/fonts/Gerbil-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
